@@ -3,7 +3,7 @@ layout: "layout"
 title: REPORT
 ---
 
-## Week: W00 Rev: 30-Aug-2021 06:46
+## Week: W00 Rev: 30-Aug-2021 07:10
 
 001. aaqil-a: [GH](https://github.com/aaqil-a/os212/) [GHP](https://aaqil-a.github.io/os212/) [LOG](https://aaqil-a.github.io/os212/TXT/mylog.txt) [TARBALL](aaqil-a.tar.bz2.txt)<br>
 002. abinbintang: [GH](https://github.com/abinbintang/os212/) [GHP](https://abinbintang.github.io/os212/) [LOG](https://abinbintang.github.io/os212/TXT/mylog.txt) [TARBALL](abinbintang.tar.bz2.txt)<br>
