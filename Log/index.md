@@ -3,10 +3,10 @@ layout: "layout"
 title: REPORT
 ---
 
-## Week: W00 Rev: 02-Sep-2021 17:18
+## Week: W00 Rev: 03-Sep-2021 13:47
 
 001. aaqil-a: [GH](https://github.com/aaqil-a/os212/) [GHP](https://aaqil-a.github.io/os212/) [LOG](https://aaqil-a.github.io/os212/TXT/mylog.txt) [TARBALL](aaqil-a.tar.bz2.txt)<br>
-002. abdulrahman01uiacid: [GH](https://github.com/abdulrahman01uiacid/os212/) [GHP](https://abdulrahman01uiacid.github.io/os212/) [TARBALL](abdulrahman01uiacid.tar.bz2.txt)<br>
+002. abdulrahman01uiacid: [GH](https://github.com/abdulrahman01uiacid/os212/) [GHP](https://abdulrahman01uiacid.github.io/os212/) [LOG](https://abdulrahman01uiacid.github.io/os212/TXT/mylog.txt) [TARBALL](abdulrahman01uiacid.tar.bz2.txt)<br>
 003. abinbintang: [GH](https://github.com/abinbintang/os212/) [GHP](https://abinbintang.github.io/os212/) [LOG](https://abinbintang.github.io/os212/TXT/mylog.txt) [TARBALL](abinbintang.tar.bz2.txt)<br>
 004. adelinesanusie: [GH](https://github.com/adelinesanusie/os212/) [GHP](https://adelinesanusie.github.io/os212/) [LOG](https://adelinesanusie.github.io/os212/TXT/mylog.txt) [TARBALL](adelinesanusie.tar.bz2.txt)<br>
 005. adellamadea: [GH](https://github.com/adellamadea/os212/) [GHP](https://adellamadea.github.io/os212/) [LOG](https://adellamadea.github.io/os212/TXT/mylog.txt) [TARBALL](adellamadea.tar.bz2.txt)<br>
@@ -129,7 +129,7 @@ title: REPORT
 122. joshste: [GH](https://github.com/joshste/os212/) [GHP](https://joshste.github.io/os212/) [LOG](https://joshste.github.io/os212/TXT/mylog.txt) [TARBALL](joshste.tar.bz2.txt)<br>
 123. kanziebub: [GH](https://github.com/kanziebub/os212/) [GHP](https://kanziebub.github.io/os212/) [LOG](https://kanziebub.github.io/os212/TXT/mylog.txt) [TARBALL](kanziebub.tar.bz2.txt)<br>
 124. kartikadipra: [GH](https://github.com/kartikadipra/os212/) [GHP](https://kartikadipra.github.io/os212/) [LOG](https://kartikadipra.github.io/os212/TXT/mylog.txt) [TARBALL](kartikadipra.tar.bz2.txt)<br>
-125. KennJthn: [TARBALL](KennJthn.tar.bz2.txt)<br>
+125. KennJthn: [GH](https://github.com/KennJthn/os212/) [GHP](https://KennJthn.github.io/os212/) [LOG](https://KennJthn.github.io/os212/TXT/mylog.txt) [TARBALL](KennJthn.tar.bz2.txt)<br>
 126. KenzieKA: [GH](https://github.com/KenzieKA/os212/) [GHP](https://KenzieKA.github.io/os212/) [LOG](https://KenzieKA.github.io/os212/TXT/mylog.txt) [TARBALL](KenzieKA.tar.bz2.txt)<br>
 127. Kevinrazaqa: [GH](https://github.com/Kevinrazaqa/os212/) [GHP](https://Kevinrazaqa.github.io/os212/) [LOG](https://Kevinrazaqa.github.io/os212/TXT/mylog.txt) [TARBALL](Kevinrazaqa.tar.bz2.txt)<br>
 128. Keyza-asyadda: [GH](https://github.com/Keyza-asyadda/os212/) [GHP](https://Keyza-asyadda.github.io/os212/) [LOG](https://Keyza-asyadda.github.io/os212/TXT/mylog.txt) [TARBALL](Keyza-asyadda.tar.bz2.txt)<br>
@@ -170,11 +170,11 @@ title: REPORT
 163. navalgaze: [GH](https://github.com/navalgaze/os212/) [GHP](https://navalgaze.github.io/os212/) [LOG](https://navalgaze.github.io/os212/TXT/mylog.txt) [TARBALL](navalgaze.tar.bz2.txt)<br>
 164. nichoje: [GH](https://github.com/nichoje/os212/) [GHP](https://nichoje.github.io/os212/) [LOG](https://nichoje.github.io/os212/TXT/mylog.txt) [TARBALL](nichoje.tar.bz2.txt)<br>
 165. NicoFathiRizqi: [GH](https://github.com/NicoFathiRizqi/os212/) [GHP](https://NicoFathiRizqi.github.io/os212/) [LOG](https://NicoFathiRizqi.github.io/os212/TXT/mylog.txt) [TARBALL](NicoFathiRizqi.tar.bz2.txt)<br>
-166. orelar: [GH](https://github.com/orelar/os212/) [TARBALL](orelar.tar.bz2.txt)<br>
+166. orelar: [GH](https://github.com/orelar/os212/) [GHP](https://orelar.github.io/os212/) [LOG](https://orelar.github.io/os212/TXT/mylog.txt) [TARBALL](orelar.tar.bz2.txt)<br>
 167. paskalisabhista: [GH](https://github.com/paskalisabhista/os212/) [GHP](https://paskalisabhista.github.io/os212/) [LOG](https://paskalisabhista.github.io/os212/TXT/mylog.txt) [TARBALL](paskalisabhista.tar.bz2.txt)<br>
 168. pragusga25: [GH](https://github.com/pragusga25/os212/) [GHP](https://pragusga25.github.io/os212/) [LOG](https://pragusga25.github.io/os212/TXT/mylog.txt) [TARBALL](pragusga25.tar.bz2.txt)<br>
 169. pramudiptha: [GH](https://github.com/pramudiptha/os212/) [GHP](https://pramudiptha.github.io/os212/) [LOG](https://pramudiptha.github.io/os212/TXT/mylog.txt) [TARBALL](pramudiptha.tar.bz2.txt)<br>
-170. pramudyawibisono: [TARBALL](pramudyawibisono.tar.bz2.txt)<br>
+170. pramudyawibisono: [GH](https://github.com/pramudyawibisono/os212/) [GHP](https://pramudyawibisono.github.io/os212/) [LOG](https://pramudyawibisono.github.io/os212/TXT/mylog.txt) [TARBALL](pramudyawibisono.tar.bz2.txt)<br>
 171. pulsapaur: [GH](https://github.com/pulsapaur/os212/) [GHP](https://pulsapaur.github.io/os212/) [LOG](https://pulsapaur.github.io/os212/TXT/mylog.txt) [TARBALL](pulsapaur.tar.bz2.txt)<br>
 172. qalbunsb: [GH](https://github.com/qalbunsb/os212/) [GHP](https://qalbunsb.github.io/os212/) [LOG](https://qalbunsb.github.io/os212/TXT/mylog.txt) [TARBALL](qalbunsb.tar.bz2.txt)<br>
 173. qosimd25: [GH](https://github.com/qosimd25/os212/) [GHP](https://qosimd25.github.io/os212/) [LOG](https://qosimd25.github.io/os212/TXT/mylog.txt) [TARBALL](qosimd25.tar.bz2.txt)<br>
