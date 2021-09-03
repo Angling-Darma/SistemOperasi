@@ -3,7 +3,7 @@ layout: "layout"
 title: REPORT
 ---
 
-## Week: W00 Rev: 03-Sep-2021 13:47
+## Week: W00 Rev: 04-Sep-2021 06:34
 
 001. aaqil-a: [GH](https://github.com/aaqil-a/os212/) [GHP](https://aaqil-a.github.io/os212/) [LOG](https://aaqil-a.github.io/os212/TXT/mylog.txt) [TARBALL](aaqil-a.tar.bz2.txt)<br>
 002. abdulrahman01uiacid: [GH](https://github.com/abdulrahman01uiacid/os212/) [GHP](https://abdulrahman01uiacid.github.io/os212/) [LOG](https://abdulrahman01uiacid.github.io/os212/TXT/mylog.txt) [TARBALL](abdulrahman01uiacid.tar.bz2.txt)<br>
@@ -21,7 +21,7 @@ title: REPORT
 014. ajierestus: [GH](https://github.com/ajierestus/os212/) [GHP](https://ajierestus.github.io/os212/) [LOG](https://ajierestus.github.io/os212/TXT/mylog.txt) [TARBALL](ajierestus.tar.bz2.txt)<br>
 015. akbarmaliki10: [GH](https://github.com/akbarmaliki10/os212/) [GHP](https://akbarmaliki10.github.io/os212/) [LOG](https://akbarmaliki10.github.io/os212/TXT/mylog.txt) [TARBALL](akbarmaliki10.tar.bz2.txt)<br>
 016. akmalgomal3: [GH](https://github.com/akmalgomal3/os212/) [GHP](https://akmalgomal3.github.io/os212/) [LOG](https://akmalgomal3.github.io/os212/TXT/mylog.txt) [TARBALL](akmalgomal3.tar.bz2.txt)<br>
-017. aldariaski: [GH](https://github.com/aldariaski/os212/) [GHP](https://aldariaski.github.io/os212/) [TARBALL](aldariaski.tar.bz2.txt)<br>
+017. aldariaski: [GH](https://github.com/aldariaski/os212/) [GHP](https://aldariaski.github.io/os212/) [LOG](https://aldariaski.github.io/os212/TXT/mylog.txt) [TARBALL](aldariaski.tar.bz2.txt)<br>
 018. alfatihaditya: [GH](https://github.com/alfatihaditya/os212/) [GHP](https://alfatihaditya.github.io/os212/) [LOG](https://alfatihaditya.github.io/os212/TXT/mylog.txt) [TARBALL](alfatihaditya.tar.bz2.txt)<br>
 019. Alinthok: [GH](https://github.com/Alinthok/os212/) [GHP](https://Alinthok.github.io/os212/) [LOG](https://Alinthok.github.io/os212/TXT/mylog.txt) [TARBALL](Alinthok.tar.bz2.txt)<br>
 020. almiramaharani: [GH](https://github.com/almiramaharani/os212/) [GHP](https://almiramaharani.github.io/os212/) [LOG](https://almiramaharani.github.io/os212/TXT/mylog.txt) [TARBALL](almiramaharani.tar.bz2.txt)<br>
