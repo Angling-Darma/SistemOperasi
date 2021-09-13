@@ -40,13 +40,13 @@ title:  "Operating Systems - Sistem Operasi"
 | [WEEK08](Slides/os08.pdf) | [WEEK09](Slides/os09.pdf) | [WEEK10](Slides/os10.pdf) |
 |       |
 | EXAMS |
-| [MIDTEM W00](http://rms46.vlsm.org/2/195.pdf) | [MIDTEM W01](http://rms46.vlsm.org/2/196.pdf) | [MIDTEM W02](http://rms46.vlsm.org/2/197.pdf) | [MIDTEM W03](http://rms46.vlsm.org/2/198.pdf) |
-| [MIDTEM W04](http://rms46.vlsm.org/2/199.pdf) | [MIDTEM W05](http://rms46.vlsm.org/2/200.pdf) | [FINAL W06](http://rms46.vlsm.org/2/201.pdf) | [FINAL W07](http://rms46.vlsm.org/2/202.pdf) |
-| [FINAL W08](http://rms46.vlsm.org/2/203.pdf) | [FINAL W09](http://rms46.vlsm.org/2/204.pdf) | [FINAL W10](http://rms46.vlsm.org/2/205.pdf) |
+| [MIDTEM W00](https://rms46.vlsm.org/2/195.pdf) | [MIDTEM W01](https://rms46.vlsm.org/2/196.pdf) | [MIDTEM W02](https://rms46.vlsm.org/2/197.pdf) | [MIDTEM W03](https://rms46.vlsm.org/2/198.pdf) |
+| [MIDTEM W04](https://rms46.vlsm.org/2/199.pdf) | [MIDTEM W05](https://rms46.vlsm.org/2/200.pdf) | [FINAL W06](https://rms46.vlsm.org/2/201.pdf) | [FINAL W07](https://rms46.vlsm.org/2/202.pdf) |
+| [FINAL W08](https://rms46.vlsm.org/2/203.pdf) | [FINAL W09](https://rms46.vlsm.org/2/204.pdf) | [FINAL W10](https://rms46.vlsm.org/2/205.pdf) |
 | [EXAM 2010-2015](https://rms46.vlsm.org/2/183.pdf) | [EXAM 2002-2010](https://rms46.vlsm.org/1/94.pdf) |
 |     |
 | ETC |
-| [OSC 10](http://os-book.com/) | [Slides](http://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) | [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [UDACITY](https://classroom.udacity.com/courses/ud923) | 
+| [OSC 10](https://os-book.com/) | [Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) | [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [UDACITY](https://classroom.udacity.com/courses/ud923) | 
 | [OS Kunyuk 1](https://rms46.vlsm.org/2/213.pdf) | [OS Kunyuk 2](https://rms46.vlsm.org/2/214.pdf) | [Jekyll](https://jekyll.vlsm.org) | [Raspberry Pi](https://www.raspberrypi.org/) |
 
 <br>
@@ -71,7 +71,7 @@ Semoga catatan ini akan bermanfaat di masa mendatang,
 saat sudah lupa cara menyelesaikan masalah trivia ini.<br><br>
 <div style="text-align: right;">
 <h2>Qapla!</h2>
-<a href="http://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html">---
+<a href="https://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html">---
 RMS46</a><br></div>
 <br>
 
