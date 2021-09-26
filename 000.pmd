@@ -3,6 +3,14 @@ layout: "layout"
 title:  "GitHub Page Configuration Files"
 ---
 
+<br>
+### assets/scripts/report.sh 
+
+```
+(> assets/scripts/report.sh <)
+```
+
+
 ### _config.yml
 
 ```
