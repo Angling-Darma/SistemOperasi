@@ -4,13 +4,6 @@ title:  "GitHub Page Configuration Files"
 ---
 
 <br>
-### assets/scripts/report.sh 
-
-```
-(> assets/scripts/report.sh <)
-```
-
-
 ### _config.yml
 
 ```
@@ -79,5 +72,12 @@ title:  "GitHub Page Configuration Files"
 
 ```
 (> assets/scripts/includeScript.py <)
+```
+
+<br>
+### assets/scripts/report.sh 
+
+```
+(> assets/scripts/report.sh <)
 ```
 
