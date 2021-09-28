@@ -14,7 +14,7 @@
  */
 
 #include <stdio.h>
-#define HEAD1 "VARIABLE  +++  VALUE +CHR+ + ADDRESS+\n"
+#define HEAD1 "VARIABLE + VALUE +CHR+ ++++ ADDRESS  ++++\n"
 
 /* Global Variables in Data Segment */
 unsigned char varchr0='a';
@@ -28,28 +28,28 @@ unsigned char varchr7='h';
 
 void main(void) {
    printf(HEAD1);
-   printf("varchr0 = %#10X = %c   %16p\n", varchr0, varchr0, &varchr0);
-   printf("varchr1 = %#10X = %c   %16p\n", varchr1, varchr1, &varchr1);
-   printf("varchr2 = %#10X = %c   %16p\n", varchr2, varchr2, &varchr2);
-   printf("varchr3 = %#10X = %c   %16p\n", varchr3, varchr3, &varchr3);
-   printf("varchr4 = %#10X = %c   %16p\n", varchr4, varchr4, &varchr4);
-   printf("varchr5 = %#10X = %c   %16p\n", varchr5, varchr5, &varchr5);
-   printf("varchr6 = %#10X = %c   %16p\n", varchr6, varchr6, &varchr6);
-   printf("varchr7 = %#10X = %c   %16p\n", varchr7, varchr7, &varchr7);
+   printf("varchr0  =  %#4X = %c   %#16.16lX\n", varchr0, varchr0, (unsigned long) &varchr0);
+   printf("varchr1  =  %#4X = %c   %#16.16lX\n", varchr1, varchr1, &varchr1);
+   printf("varchr2  =  %#4X = %c   %#16.16lX\n", varchr2, varchr2, &varchr2);
+   printf("varchr3  =  %#4X = %c   %#16.16lX\n", varchr3, varchr3, &varchr3);
+   printf("varchr4  =  %#4X = %c   %#16.16lX\n", varchr4, varchr4, &varchr4);
+   printf("varchr5  =  %#4X = %c   %#16.16lX\n", varchr5, varchr5, &varchr5);
+   printf("varchr6  =  %#4X = %c   %#16.16lX\n", varchr6, varchr6, &varchr6);
+   printf("varchr7  =  %#4X = %c   %#16.16lX\n", varchr7, varchr7, &varchr7);
 }
 
 /*
- * TAKE NOTE (AII)
- * A global variable is a variable that is declared 
- * outside all functions. 
- * A local variable can only be used in the function 
- * where it is declared. 
- * A global variable can be used in all functions.
- * varchr0 until varchr7 are global char variable.
- * 
- * This program will print the values of global 
- * variables along with their address.
- * %#10X specify hex ASCII value of a char.
- * &varchr0 will return the address of varable varchr0.
- */
+VARIABLE + VALUE +CHR+ ++++ ADDRESS  ++++
+varchr0  =  0X61 = a   0X0000556677889938
+varchr1  =  0X62 = b   0X0000556677889939
+varchr2  =  0X63 = c   0X000055667788993A
+varchr3  =  0X64 = d   0X000055667788993B
+varchr4  =  0X65 = e   0X000055667788993C
+varchr5  =  0X66 = f   0X000055667788993D
+varchr6  =  0X67 = g   0X000055667788993E
+varchr7  =  0X68 = h   0X000055667788993F
+
+                      0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0000 5566 7788 9930   -  -  -  -  -  -  -  - 61 62 63 64 65 66 67 68
+*/
 

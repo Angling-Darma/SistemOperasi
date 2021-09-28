@@ -5,16 +5,16 @@
  * hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
  * implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 # INFO: TBA
+ * REV08: Tue 28 Sep 2021 21:17:45 WIB
  * REV07: Fri 02 Apr 07:41:21 WIB 2021
  * REV06: Tue 23 Mar 09:56:51 WIB 2021
  * REV05: Sun 23 Feb 16:59:31 WIB 2020
  * REV04: Tue 28 Aug 18:40:36 WIB 2018
- * REV03: Tue 03 Oct 19:12:30 WIB 2017
  * START: Tue 20 Sep 17:00:52 WIB 2016
  */
 
 #include <stdio.h>
-#define HEAD1 "VARIABLE  +++  VALUE +CHR+ +++  ADDRESS +++\n"
+#define HEAD1 "VARIABLE + VALUE +CHR+ ++++ ADDRESS  ++++\n"
 
 void main(void) {
    /* Local Variables in Stack Segment */
@@ -28,36 +28,27 @@ void main(void) {
    unsigned char varchr7='h';
 
    printf(HEAD1);
-   printf("varchr0 = %#10X = %c   %16p\n", varchr0, varchr0, &varchr0);
-   printf("varchr1 = %#10X = %c   %16p\n", varchr1, varchr1, &varchr1);
-   printf("varchr2 = %#10X = %c   %16p\n", varchr2, varchr2, &varchr2);
-   printf("varchr3 = %#10X = %c   %16p\n", varchr3, varchr3, &varchr3);
-   printf("varchr4 = %#10X = %c   %16p\n", varchr4, varchr4, &varchr4);
-   printf("varchr5 = %#10X = %c   %16p\n", varchr5, varchr5, &varchr5);
-   printf("varchr6 = %#10X = %c   %16p\n", varchr6, varchr6, &varchr6);
-   printf("varchr7 = %#10X = %c   %16p\n", varchr7, varchr7, &varchr7);
+   printf("varchr0  =  %#4X = %c   %#16.16lX\n", varchr0, varchr0, (unsigned long) &varchr0);
+   printf("varchr1  =  %#4X = %c   %#16.16lX\n", varchr1, varchr1, &varchr1);
+   printf("varchr2  =  %#4X = %c   %#16.16lX\n", varchr2, varchr2, &varchr2);
+   printf("varchr3  =  %#4X = %c   %#16.16lX\n", varchr3, varchr3, &varchr3);
+   printf("varchr4  =  %#4X = %c   %#16.16lX\n", varchr4, varchr4, &varchr4);
+   printf("varchr5  =  %#4X = %c   %#16.16lX\n", varchr5, varchr5, &varchr5);
+   printf("varchr6  =  %#4X = %c   %#16.16lX\n", varchr6, varchr6, &varchr6);
+   printf("varchr7  =  %#4X = %c   %#16.16lX\n", varchr7, varchr7, &varchr7);
 }
 
 /*
- * TAKE NOTE (AII & MIM)
- * A global variable is a variable that is declared outside all functions. 
- * A local variable can only be used in the function where it is declared. 
- * A global variable can be used in all functions.
- * varchr0 until varchr7 are local char variables.
- * 
- * This program will print the values of local variables along with their address.
- * %#10X specify hex ASCII value of a char.
- * &varchr0 will return the address of varable varchr0.
- *
- * Variabel HEAD1 dapat diakses di dalam fungsi main karena merupakan 
- * Global Variable, sehingga perintah printf dapat dijalankan.
- *
- * Variable varchr0 sampai varchr7 hanya dapat diakses di dalam 
- * fungsi main karena merupakan Local Variable. 
- *
- * Apabila di luar fungsi terdapat perintah printf(varchar0),
- * maka perintah tersebut tidak dapat berjalan karena tidak ada akses 
- * untuk mengambil nilai dari varchar0 yang merupakan Local Variable 
- * di dalam fungsi main.
- */
+varchr0  =  0X61 = a   0X00007FEEDDCCBBFF
+varchr1  =  0X62 = b   0X00007FEEDDCCBBFE
+varchr2  =  0X63 = c   0X00007FEEDDCCBBFD
+varchr3  =  0X64 = d   0X00007FEEDDCCBBFC
+varchr4  =  0X65 = e   0X00007FEEDDCCBBFB
+varchr5  =  0X66 = f   0X00007FEEDDCCBBFA
+varchr6  =  0X67 = g   0X00007FEEDDCCBBF9
+varchr7  =  0X68 = h   0X00007FEEDDCCBBF8
+
+                      0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0000 7FEE DDCC BBF0   -  -  -  -  -  -  -  - 68 67 66 65 64 63 62 61
+*/
 
