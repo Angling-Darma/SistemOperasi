@@ -14,7 +14,6 @@
  */
 
 #include <stdio.h>
-#define HEAD1 "VARIABLE  +++  VALUE +CHR+   +ADDRESS +         +POINTS TO+ \n"
 
 /* Global Variables */
 unsigned char  varchr0='a';
@@ -30,25 +29,25 @@ void main(void) {
    printf("Address &ptrchr0 = %#16.16lX\n",  &ptrchr0);
    printf("Value    ptrchr0 = %#16.16lX\n",   ptrchr0);
    printf("Address &varchr0 = %#16.16lX\n",  &varchr0);
-   printf("Value   *ptrchr0 = %18c\n",       *ptrchr0);
+   printf("Pointer *ptrchr0 = %18c\n",       *ptrchr0);
    printf("Value    varchr0 = %18c\n\n",      varchr0);
 
    printf("Address &ptrchr1 = %#16.16lX\n",  &ptrchr1);
    printf("Value    ptrchr1 = %#16.16lX\n",   ptrchr1);
    printf("Address &varchr1 = %#16.16lX\n",  &varchr1);
-   printf("Value   *ptrchr1 = %18c\n",       *ptrchr1);
+   printf("Pointer *ptrchr1 = %18c\n",       *ptrchr1);
    printf("Value    varchr1 = %18c\n\n",      varchr1);
 
    printf("Address &ptrchr2 = %#16.16lX\n",  &ptrchr2);
    printf("Value    ptrchr2 = %#16.16lX\n",   ptrchr2);
    printf("Address &varchr2 = %#16.16lX\n",  &varchr2);
-   printf("Value   *ptrchr2 = %18c\n",       *ptrchr2);
+   printf("Pointer *ptrchr2 = %18c\n",       *ptrchr2);
    printf("Value    varchr2 = %18c\n\n",      varchr2);
 
    printf("Address &ptrchr3 = %#16.16lX\n",  &ptrchr3);
    printf("Value    ptrchr3 = %#16.16lX\n",   ptrchr3);
    printf("Address &varchr3 = %#16.16lX\n",  &varchr3);
-   printf("Value   *ptrchr3 = %18c\n",       *ptrchr3);
+   printf("Pointer *ptrchr3 = %18c\n",       *ptrchr3);
    printf("Value    varchr3 = %18c\n\n",      varchr3);
 }
 
