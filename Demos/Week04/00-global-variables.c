@@ -28,7 +28,7 @@ unsigned char varchr7='h';
 
 void main(void) {
    printf(HEAD1);
-   printf("varchr0  =  %#4X = %c   %#16.16lX\n", varchr0, varchr0, (unsigned long) &varchr0);
+   printf("varchr0  =  %#4X = %c   %#16.16lX\n", varchr0, varchr0, &varchr0);
    printf("varchr1  =  %#4X = %c   %#16.16lX\n", varchr1, varchr1, &varchr1);
    printf("varchr2  =  %#4X = %c   %#16.16lX\n", varchr2, varchr2, &varchr2);
    printf("varchr3  =  %#4X = %c   %#16.16lX\n", varchr3, varchr3, &varchr3);
