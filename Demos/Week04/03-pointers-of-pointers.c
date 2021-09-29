@@ -5,6 +5,7 @@
  * hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
  * implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 # INFO: TBA
+ * REV07: Wed 29 Sep 2021 08:12:48 WIB
  * REV06: Tue 23 Mar 10:14:44 WIB 2021
  * REV05: Sun Feb 23 16:59:31 WIB 2020
  * REV04: Tue Aug 28 18:40:36 WIB 2018
@@ -63,7 +64,7 @@ void main(void) {
    printf("Value    ptrptr3 = %#16.16lX\n",   ptrptr3);
    printf("Address &ptrchr3 = %#16.16lX\n",  &ptrchr3);
    printf("Pointer *ptrptr3 = %#16.16lX\n",  *ptrptr3);
-   printf("Value    ptrchr1 = %#16.16lX\n",   ptrchr3);
+   printf("Value    ptrchr3 = %#16.16lX\n",   ptrchr3);
    printf("Address &varchr3 = %#16.16lX\n",  &varchr3);
    printf("PtrPtr **ptrptr3 = %18c\n",      **ptrptr3);
    printf("Pointer *ptrchr3 = %18c\n",       *ptrchr3);
@@ -105,7 +106,7 @@ Address &ptrptr3 = 0X0000556677889970
 Value    ptrptr3 = 0X0000556677889950
 Address &ptrchr3 = 0X0000556677889950
 Pointer *ptrptr3 = 0X0000556677889933
-Value    ptrchr1 = 0X0000556677889933
+Value    ptrchr3 = 0X0000556677889933
 Address &varchr3 = 0X0000556677889933
 PtrPtr **ptrptr3 =                  d
 Pointer *ptrchr3 =                  d

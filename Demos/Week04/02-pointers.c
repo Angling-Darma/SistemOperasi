@@ -5,11 +5,11 @@
  * hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
  * implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 # INFO: TBA
+ * REV09: Wed 29 Sep 2021 08:10:06 WIB
  * REV08: Tue 28 Sep 2021 21:24:42 WIB
  * REV07: Fri 02 Apr 07:37:07 WIB 2021
  * REV06: Tue 23 Mar 10:01:44 WIB 2021
  * REV05: Sun 23 Feb 16:59:31 WIB 2020
- * REV04: Tue 28 Aug 18:40:36 WIB 2018
  * START: Tue 20 Sep 17:00:52 WIB 2016
  */
 
@@ -55,7 +55,7 @@ void main(void) {
 Address &ptrchr0 = 0X0000556677889938
 Value    ptrchr0 = 0X0000556677889930
 Address &varchr0 = 0X0000556677889930
-Pointer  *ptrchr0 =                  a
+Pointer *ptrchr0 =                  a
 Value    varchr0 =                  a
 
 Address &ptrchr1 = 0X0000556677889940
@@ -81,5 +81,5 @@ Value    varchr3 =                  d
 0000 5566 7788 9940  31 99 88 77 66 55 00 00 32 99 88 77 66 55 00 00
 0000 5566 7788 9950  33 99 88 77 66 55 00 00  -  -  -  -  -  -  -  -
 
- */
+*/
 
