@@ -1,7 +1,10 @@
 #!/bin/bash
-# Thu 08 Jul 2021 10:20:41 WIB
+# REV01 Mon 11 Oct 2021 06:53:06 WIB
+# REV00 Thu 08 Jul 2021 10:20:41 WIB
 
-echo -n "XYZZY.."
-echo ". Nothing happens..."
-
+INDEX="index.md"
+LOG="Log/index.md"
+TAIL=$(grep "^## W" $LOG)
+sed -i '$ d' $INDEX
+sed -i -e "\$a$TAIL" $INDEX
 
