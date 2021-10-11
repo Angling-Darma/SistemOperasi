@@ -2,6 +2,9 @@
 # REV01 Mon 11 Oct 2021 06:53:06 WIB
 # REV00 Thu 08 Jul 2021 10:20:41 WIB
 
+echo -n "XYZZY.."
+echo ". Nothing happens..."
+
 # INDEX="index.md"
 # LOG="Log/index.md"
 # sed -i '/"^## Week:"/s/.*/$(grep "^## Week:" $LOG)/' $INDEX
