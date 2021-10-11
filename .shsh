@@ -1,13 +1,8 @@
 #!/bin/bash
-# REV01 Mon 11 Oct 2021 06:53:06 WIB
-# REV00 Thu 08 Jul 2021 10:20:41 WIB
+# REV02 Mon 11 Oct 2021 11:21:09 WIB ana117
+# REV01 Mon 11 Oct 2021 06:53:06 WIB rms46
+# REV00 Thu 08 Jul 2021 10:20:41 WIB rms46
 
-echo -n "XYZZY.."
-echo ". Nothing happens..."
-
-# INDEX="index.md"
-# LOG="Log/index.md"
-# sed -i '/"^## Week:"/s/.*/$(grep "^## Week:" $LOG)/' $INDEX
-# sed -i '/"^## Week:"/s/.*/DODOL/' $INDEX
-# head $INDEX
+sed -i "s/^## Last.*/$(sed "s/Week/Last Report/" Log/index.md | grep "^## ")/" index.md
+grep "^## L" index.md | head -1
 
