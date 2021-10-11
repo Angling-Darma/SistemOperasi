@@ -2,9 +2,9 @@
 # REV01 Mon 11 Oct 2021 06:53:06 WIB
 # REV00 Thu 08 Jul 2021 10:20:41 WIB
 
-INDEX="index.md"
-LOG="Log/index.md"
-TAIL=$(grep "^## W" $LOG)
-sed -i '$ d' $INDEX
-sed -i -e "\$a$TAIL" $INDEX
+# INDEX="index.md"
+# LOG="Log/index.md"
+# sed -i '/"^## Week:"/s/.*/$(grep "^## Week:" $LOG)/' $INDEX
+# sed -i '/"^## Week:"/s/.*/DODOL/' $INDEX
+# head $INDEX
 

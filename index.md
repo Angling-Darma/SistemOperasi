@@ -4,6 +4,9 @@ title:  "Operating Systems - Sistem Operasi"
 ---
 
 <br>
+## Last Report: W04 Rev: 07-Oct-2021 02:48
+
+<br>
 
 {{ site.description }}
 
@@ -75,4 +78,3 @@ saat sudah lupa cara menyelesaikan masalah trivia ini.<br><br>
 RMS46</a><br></div>
 <br>
 
-## Week: W04 Rev: 07-Oct-2021 02:47
