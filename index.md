@@ -10,7 +10,7 @@ title:  "Operating Systems - Sistem Operasi"
 
 {{ site.description }}
 
-<br>
+<br id="idx01">
 # HOW TO CONTACT the lecturer
   * No [Puss in Boots face](pib.jpg), please!
   * Always introduce yourself! State your "GitHubAccount", "Name", "Student ID", and "OS class".
