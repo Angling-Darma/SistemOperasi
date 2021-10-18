@@ -7,6 +7,7 @@ permalink: /playlists/
 <hr>
 
 * [M. Anwar Ma'sum](https://www.youtube.com/channel/UCi3sVI10RtRaVWuq1SOVaSg)
+  * [SOSI-2021-2022-1](https://www.youtube.com/playlist?list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96)
   * [SOSI-2020-2021-2](https://www.youtube.com/playlist?list=PLBXapj649rh-tm4SItb1OZELx6cLXSDop)
 * [Grafika Jati](https://www.youtube.com/user/31graf)
 * [Mr. Y. Yoda](https://www.youtube.com/channel/UCpCmOF7bwVaKIQkvBKBXhLQ/videos)

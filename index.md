@@ -27,7 +27,10 @@ title:  "Operating Systems - Sistem Operasi"
 
 * [What defines an Operating System?](https://rahmatm.samik-ibrahim.vlsm.org/2021/07/what-defines-operating-system.html)
 * [Operating System Concepts 10ed. Slides](https://www.os-book.com/OS10/slide-dir/)
-* [OSP4DISS: GNU/Linux Tutorial](https://osp4diss.vlsm.org/Welcome2GNULinux.html)
+* [Introduction to GNU/Linux](https://osp4diss.vlsm.org/Welcome2GNULinux.html) ---
+  Study some Command Lines, Editor, Regular Expression (regex), and String Processing. 
+* [More GNU/Linux](https://osp4diss.vlsm.org/osp-115.html) ---
+  There are too many "GNU/Linux" sites around, do your own GSGS!
 * [Udacity: OS Visual Metaphors](https://goo.gl/HaUk5g)
 * [YouTube: OS Playlists](/playlists/)
 
