@@ -51,7 +51,7 @@ title:  "Operating Systems - Sistem Operasi"
 | [FINAL W08](https://rms46.vlsm.org/2/203.pdf) | [FINAL W09](https://rms46.vlsm.org/2/204.pdf) | [FINAL W10](https://rms46.vlsm.org/2/205.pdf) |
 | [EXAM 2010-2015](https://rms46.vlsm.org/2/183.pdf) | [EXAM 2002-2010](https://rms46.vlsm.org/1/94.pdf) |
 |     |
-| EXAMS ANSWERS |
+| EXAM ANSWERS |
 | [MIDTERM W05 2017-2](https://rms46.vlsm.org/2/223.pdf) | [MIDTERM FORK 2010/11](https://rms46.vlsm.org/2/232.pdf) |
 |     |
 | ETC |
