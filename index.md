@@ -51,6 +51,9 @@ title:  "Operating Systems - Sistem Operasi"
 | [FINAL W08](https://rms46.vlsm.org/2/203.pdf) | [FINAL W09](https://rms46.vlsm.org/2/204.pdf) | [FINAL W10](https://rms46.vlsm.org/2/205.pdf) |
 | [EXAM 2010-2015](https://rms46.vlsm.org/2/183.pdf) | [EXAM 2002-2010](https://rms46.vlsm.org/1/94.pdf) |
 |     |
+| EXAMS ANSWERS |
+| [MIDTERM W05 2017-2](https://rms46.vlsm.org/2/223.pdf) | [MIDTERM FORK 2010/11](https://rms46.vlsm.org/2/232.pdf) |
+|     |
 | ETC |
 | [OSC 10](https://os-book.com/) | [Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) | [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) | [UDACITY](https://classroom.udacity.com/courses/ud923) | 
 | [OS Kunyuk 1](https://rms46.vlsm.org/2/213.pdf) | [OS Kunyuk 2](https://rms46.vlsm.org/2/214.pdf) | [Jekyll](https://jekyll.vlsm.org) | [Raspberry Pi](https://www.raspberrypi.org/) |
