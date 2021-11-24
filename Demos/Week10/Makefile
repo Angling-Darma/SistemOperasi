@@ -1,8 +1,9 @@
-# REV17 Wed Mar 25 16:57:52 WIB 2020
-# REV16 Tue Nov 26 11:30:37 WIB 2019
-# REV14 Mon Dec 10 15:17:15 WIB 2018
-# REV03 Thu Mar  9 21:18:27 WIB 2017
-# START Tue Sep 13 11:44:18 WIB 2016
+# REV18 Wed 24 Nov 2021 08:14:38 AM WIB
+# REV17 Wed 25 Mar 2020 25 16:57:52 WIB
+# REV16 Tue 26 Nov 2019 26 11:30:37 WIB
+# REV14 Mon 10 Dec 2018 10 15:17:15 WIB
+# REV03 Thu 09 Mar 2017  9 21:18:27 WIB
+# START Tue 13 Sep 2016 13 11:44:18 WIB
 
 CC            = gcc
 CPP           = cpp
@@ -33,6 +34,7 @@ P59a=59a-io
 P59b=59b-io
 P59c=59c-io
 P60=60-readwrite
+P61=61-dupdemo
 P70=70-os161
 P71=71-os171
 P72=72-os172
@@ -43,53 +45,55 @@ P76=76-os192
 
 
 EXECS= \
-        $(P10) \
-        $(P11) \
-        $(P12) \
-        $(P50) \
-        $(P51) \
-        $(P52) \
-        $(P53) \
-        $(P54) \
-        $(P55) \
-        $(P56) \
-        $(P57) \
-        $(P58) \
+        $(P10)  \
+        $(P11)  \
+        $(P12)  \
+        $(P50)  \
+        $(P51)  \
+        $(P52)  \
+        $(P53)  \
+        $(P54)  \
+        $(P55)  \
+        $(P56)  \
+        $(P57)  \
+        $(P58)  \
         $(P59a) \
         $(P59b) \
         $(P59c) \
-        $(P60) \
-        $(P70) \
-        $(P71) \
-        $(P72) \
-        $(P73) \
-        $(P74) \
-        $(P75) \
-        $(P76) \
+        $(P60)  \
+        $(P61)  \
+        $(P70)  \
+        $(P71)  \
+        $(P72)  \
+        $(P73)  \
+        $(P74)  \
+        $(P75)  \
+        $(P76)  \
 
 
 DEMOFILES=\
-	demo-file1.txt \
-	demo-file2.txt \
-	demo-file3.txt \
-	demo-file4.txt \
-	demo-file5.txt \
-	demo-file6.txt \
-	demo-file7.txt \
-	demo-file8.txt \
-	demo-fileA.txt \
-	demo-copy.txt  \
+	demo-file1.txt   \
+	demo-file2.txt   \
+	demo-file3.txt   \
+	demo-file4.txt   \
+	demo-file5.txt   \
+	demo-file6.txt   \
+	demo-file7.txt   \
+	demo-file8.txt   \
+	demo-fileA.txt   \
+	demo-copy.txt    \
         $(P59a)-demo.txt \
         $(P59b)-demo.txt \
         $(P59c)-demo.txt \
-        $(P70)-demo.txt \
-        $(P71)-demo.txt \
-        $(P72)-demo.txt \
-        $(P73)-demo.txt \
+        $(P61)-demo.txt  \
+        $(P70)-demo.txt  \
+        $(P71)-demo.txt  \
+        $(P72)-demo.txt  \
+        $(P73)-demo.txt  \
         $(P74)-demo3.txt \
         $(P74)-demo4.txt \
-        $(P75)-demo.txt \
-        $(P76)-demo.txt \
+        $(P75)-demo.txt  \
+        $(P76)-demo.txt  \
         
 
 MODE644=\
